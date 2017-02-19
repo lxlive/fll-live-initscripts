@@ -1,3 +1,21 @@
+fll-live-initscripts (4.4.5.6) unstable; urgency=medium
+
+  * fix typo in debian sources
+
+ -- Alf Gaida <agaida@siduction.org>  Sun, 19 Feb 2017 15:59:32 +0100
+
+fll-live-initscripts (4.4.5.5) unstable; urgency=medium
+
+  * fix apt repos - and activate source repos by default 
+
+ -- Alf Gaida <agaida@siduction.org>  Sun, 19 Feb 2017 15:17:01 +0100
+
+fll-live-initscripts (4.4.5.4) unstable; urgency=medium
+
+  * some fixes in repos
+
+ -- Alf Gaida <agaida@siduction.org>  Thu, 16 Feb 2017 00:46:16 +0100
+
 fll-live-initscripts (4.4.5.2) unstable; urgency=medium
 
   * fix sddm autologin handling 
