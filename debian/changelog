@@ -1,8 +1,8 @@
-fll-live-initscripts (4.4.5.6) unstable; urgency=medium
+fll-live-initscripts (4.4.5.7) unstable; urgency=medium
 
   * fix typo in debian sources
 
- -- Alf Gaida <agaida@siduction.org>  Sun, 19 Feb 2017 15:59:32 +0100
+ -- Alf Gaida <agaida@siduction.org>  Sun, 19 Feb 2017 18:10:49 +0100
 
 fll-live-initscripts (4.4.5.5) unstable; urgency=medium
 

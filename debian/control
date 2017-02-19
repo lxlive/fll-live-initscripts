@@ -1,8 +1,5 @@
 Source: fll-live-initscripts
-Maintainer: Stefan Lippers-Hollmann <s.l-h@gmx.de>
-Uploaders: Alf Gaida <agaida@siduction.org>,
-           Angelescu Ovidiu <convbsd@siduction.org>,
-           Jens Theede <musca@siduction.org>
+Maintainer: Alf Gaida <agaida@siduction.org>
 Section: misc
 Priority: optional
 Build-Depends: debhelper (>= 10),
@@ -18,8 +15,8 @@ Build-Depends: debhelper (>= 10),
                libudev-dev,
                libxml2-utils
 Standards-Version: 3.9.8
-Vcs-Browser: https://git.siduction.org/extra/fll-live-initscripts.git
-Vcs-Git: https://git.siduction.org/extra/fll-live-initscripts.git
+Vcs-Browser: https://github.com/lxlive/fll-live-initscripts.git
+Vcs-Git: https://github.com/lxlive/fll-live-initscripts.git
 
 Package: distro-defaults
 Architecture: all
